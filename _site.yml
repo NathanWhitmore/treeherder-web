@@ -1,0 +1,17 @@
+name: "Treeherder"  
+author: "Nathan Whitmore"  
+output_dir: "docs"  
+output:  
+  html_document:  
+    self_contained: no  
+    theme: spacelab 
+    toc: TRUE
+    toc_float: TRUE
+    anchor_sections: FALSE
+theme: cosmo
+navbar:  
+  title: "Treeherder"
+  right:
+    - text: "Home"
+      href: index.html
+

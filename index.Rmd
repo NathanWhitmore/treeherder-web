@@ -1,0 +1,134 @@
+---
+title: 'Treeherder: a silviculture concept'
+---
+
+
+<style type="text/css">
+
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 16px;
+  }
+td {  /* Table  */
+  font-size: 8px;
+}
+h1.title {
+  font-size: 48px;
+  font-weight: bold;
+  color: #149414;
+  font-family: Tahoma, sans-serif
+}
+h1 { /* Header 1 */
+  font-size: 28px;
+    color: #149414;
+}
+
+h3 { /* Header 3 */
+    color: #149414;
+}
+
+code.r{ /* Code block */
+    font-size: 12px;
+}
+pre { /* Code block - determines code spacing between lines */
+    font-size: 14px;
+}
+
+
+div.blue { background-color:#f0fbfc ; border-radius: 6px; padding: 10px;}
+
+</style>
+
+<br>
+
+
+
+### Objective
+
+<div class = "blue">
+
+To develop an intergenerational [continuous cover forestry](http://silviculture.org.uk/continuous-cover-forestry/) operation using indigenous species via afforestation through a cooperative governance structure.
+
+</div>
+
+<br>
+
+### Why
+Currently New Zealand is dominated by two forest management systems: 
+
+1. permanent, protected indigenous old growth forests, and
+2. exotic plantation forestry operating under a clear-fell rotation system. 
+
+These present a false dichotomy and ignore the potential for establishing native forest for sustainable use. 
+
+<br>
+
+#### NZ native timbers are a viable alternative
+Many native trees in New Zealand, especially beech and podocarp species are renowned for their timber. While the time required for such species to reach a harvestable size is much longer than *Pinus radiata* (which dominates NZ forestry), likely in the region of 70-90 years, this is normal by international standards for temperate species. 
+
+While the concept of profitable foresty based on New Zealand's native trees is foreign to most New Zealanders a substantial amount of the hard work has already been done. Most notably by [Tane's Trees Trust](https://www.tanestrees.org.nz/) which advocates for the approach, and has published a large amount of easy-to-read [manuals and guides](https://www.tanestrees.org.nz/resources/publications/) .
+
+<br>
+
+#### Continuous Cover Forestry mimics natural processes
+Continuous Cover Forestry (CCF) focuses on mimicking the ecological function of a natural forest, albeit with a focus on improving tree form for future sale of timber. Central to CCF is having a multi-age forest which self-replenishes, using a selective harvest regime which mimics windfall gaps in the canopy, all while operating as a biodiverse functional forest. As the name suggests, after the establishment period, the forest is expected to retain a stable canopy cover even with ongoing harvesting. Increasingly, in Europe CCF is supplanting clear felling as operations seek out more sustainable forms of operation.
+
+<br>
+
+#### Native forest will benefit biodiversity in a way pine planations can't
+New Zealand's pine plantations, as an exotic habitat, fail to contribute to natural biodiversity in any meaningful way. Furthermore, the current practice of clear-felling pine plantations has well documented negative impacts on water ways through [sedimentation](https://www.stuff.co.nz/environment/102675332/new-study-finds-pine-forest-link-to-fine-sediment-in-waimea-moutere-estuaries) and tendency for the [slash to be washed downstream during flood events](https://www.stuff.co.nz/national/104527525/forestry-slash-reminder-economic-boon-not-without-problems). The typical rotation period of 28 years also removes the possibility of pine plantations acting as a meaningful reservoir for any biodiversity which established in the plantation. Outside of the plantations *Pinus radiata* is considered a weed, and its removal is a financial burden on the New zealand conservation estate. By contrast a multi-age, multi-species native forest operting under CCF will provide a near natural habitat. The major difference being most large trees will be managed for form in order to produce marketable timber. Unlike rotational clear-felling, under CCF only small patches of trees will ever be removed at any given time, thereby removing the  potential for sediment transport.
+
+<br>
+
+#### Native forests sequest large amounts of carbon
+Afforestation culminating in CCF will sequester substantial amounts of carbon. Currently, the emission trading scheme's native forest schedule is based on regenerating kanuka/manuka shrubland and recent [research](https://pureadvantage.org/carbon-sequestration-by-native-forest-setting-the-record-straight/) suggests the true storage capacity of native forest has been dramatically underestimated and more closely approaches that of a pine planatation.
+
+<br>
+
+#### The personal investment strategies of New Zealanders undermine our own future
+In New Zealand we have been traditionally encouraged to put money into property (which has resulted in runaway speculation in the housing market) and more recently into our Kiwisaver retirement funds (and to a lesser extent managed funds or personal share portfolios). While the suite of ethical funds has increased in the last decade, even the best of these only exclude the worse companies. Investment alternatives which actually improve the prospects of living on a habitable planet are rare.
+
+<br>
+
+### A way forward
+Piloting a native CCF forestry block through afforestation will take money. Land is expensive, and the income from direct harvest would be at least a generation away (although income over the medium-term could be obtained by participation in New Zealand's emission trading scheme, and the production of non-timber products such as manuka honey). The future returns from CCF with native species in NZ is completely unknown although we know forestry with longer lived species is a profitable business in Europe and the US. At the moment this means an individual wishing to participate in such a venture in NZ has little choice but to go it alone, which necessitates that they be rich.
+
+An alternative approach is to develop a [cooperative]((https://www.iod.org.nz/resources-and-insights/guides-and-resources/co-operatives-in-new-zealand/#)) made up of many individuals in which members have ownership via a fully transferable share in the forest via a timber right (which they can sell to anyone in the cooperative, meaning they can potentially sell at a profit well before the CCF generates revenue). Such an approach democratises both governance and investment, while diminishing financial risk. Under such a model each member would also have user rights of the property (which they would be encouraged to exercise). Uses would include overnight camping, bushcraft, bird watching, mountain biking, and trail running. The execution of user rights on the property would also require that the user contribute some minimal labour while they are there e.g. weeding saplings, fence checks, predator and pest control. Shareholders would also be encouraged to participate in the planting of the area. As the first harvest is likely beyond the life span of most members, families in particular are encouraged to join, so that an inter-generational legacy with the management of the forest is enshrined.
+
+<br>
+
+### Next steps
+
+Before any operation can commence on the ground a series of steps will have to be completed:
+
+1. Gauge interest of potential participants
+2. Formation of a steering committee (composed of experts: in forestry, finance, governance, botany, and ecology)
+3. Survey of prospective members
+4. Conduct a feasibility analysis
+5. Prepare a business plan
+6. Determine governance structure
+7. Draft legal papers and incorporate
+8. First annual meeting of the cooperative
+    + Approve the constitution and member agreement
+    + Election of board of directors
+9. Acquisition of capital
+10. Acquisition of land
+11. Beginning of operation
+
+At certain points between steps significant participant / member consultation and key votes will occur.
+
+<br>
+
+### Register your interest
+
+Currently, we are at Step 1 of the process: gauging interest of potential participants. Specifically, we are looking at the possibility of developing a project in Otago.
+
+<div class = "blue">
+If the concept interests you (regardless of place of residence), you can register your interest by emailing [Nathan](mailto:nathan@reproducible.co.nz) to be included on a mailing list for monthly updates. Feel free to mention possible ways you may like to be involved.
+
+There are no obligations associated with registering interest. 
+</div>
+
+ 
