@@ -1,0 +1,98 @@
+---
+title: "Explainers"
+output:
+  html_document:
+    df_print: paged
+---
+
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 16px;
+  }
+td {  /* Table  */
+  font-size: 8px;
+}
+h1.title {
+  font-size: 48px;
+  font-weight: bold;
+  color: #149414;
+  font-family: Tahoma, sans-serif
+}
+
+h1{
+  font-size: 48px;
+  font-weight: bold;
+  color: #149414;
+  font-family: Tahoma, sans-serif
+}
+h2 { /* Header 2 */
+    color: #149414;
+}
+
+h3 { /* Header 3 */
+    color: #149414;
+}
+
+code.r{ /* Code block */
+    font-size: 12px;
+}
+pre { /* Code block - determines code spacing between lines */
+    font-size: 14px;
+}
+
+
+div.blue { background-color:#f0fbfc ; border-radius: 6px; padding: 10px;}
+
+
+
+</style>
+
+<br>
+
+Below are a set of videos which explain some of the ideas behind the Treeherder concept. 
+
+Currently, no single project matches Treeherder or its objective.
+
+### CCF explained 
+
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PPuz8CKH6nw" frameborder="0" allowfullscreen></iframe>
+
+*An introduction by CCFG, a UK group*
+<br>
+<br>
+
+### CCF in New Zealand 
+
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASo0ATOG7ME" frameborder="0" allowfullscreen></iframe>
+
+*Covering the concept behind Foreverbeech*
+<br>
+<br>
+
+### Introduction to the ETS
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3kLbODDCm80" frameborder="0" allowfullscreen></iframe>
+
+*The New Zealand Emissions Trading Scheme*
+
+<br>
+<br>
+
+### Reforestation in NZ
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7Jx8anTu4Q" frameborder="0" allowfullscreen></iframe>
+
+*The Hinewai reserve*
+<br>
+
+### What is a cooperative?
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/90FL_bBE4mw" frameborder="0" allowfullscreen></iframe>
+
+*An explainer from the UK*
+<br>
+

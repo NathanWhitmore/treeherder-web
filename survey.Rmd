@@ -1,0 +1,61 @@
+---
+title: "Survey"
+output:
+  html_document:
+    df_print: paged
+---
+
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 16px;
+  }
+td {  /* Table  */
+  font-size: 8px;
+}
+h1.title {
+  font-size: 48px;
+  font-weight: bold;
+  color: #149414;
+  font-family: Tahoma, sans-serif
+}
+
+h1{
+  font-size: 48px;
+  font-weight: bold;
+  color: #149414;
+  font-family: Tahoma, sans-serif
+}
+h2 { /* Header 2 */
+    color: #149414;
+}
+
+h3 { /* Header 3 */
+    color: #149414;
+}
+
+code.r{ /* Code block */
+    font-size: 12px;
+}
+pre { /* Code block - determines code spacing between lines */
+    font-size: 14px;
+}
+
+
+div.blue { background-color:#f0fbfc ; border-radius: 6px; padding: 10px;}
+
+
+
+</style>
+
+<br>
+
+### Understanding you
+
+*Please help us improve our understanding by taking the following survey...*
+
+<br>
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSerigsYDcjp-jHxVJ8f05oE3dFju-GYSTAvC2t8BweBzz6rAw/viewform?embedded=true" width="900" height="820" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

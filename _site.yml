@@ -12,6 +12,10 @@ theme: cosmo
 navbar:  
   title: "Treeherder"
   right:
+    - text: "Survey"
+      href: survey.html
+    - text: "Explainers"
+      href: explainers.html
     - text: "Home"
       href: index.html
 

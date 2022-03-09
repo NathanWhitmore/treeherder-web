@@ -1,6 +1,10 @@
 ---
 title: "Treeherder"
+output:
+  html_document:
+    df_print: paged
 ---
+
 
 <style type="text/css">
 
@@ -41,10 +45,11 @@ pre { /* Code block - determines code spacing between lines */
 
 div.blue { background-color:#f0fbfc ; border-radius: 6px; padding: 10px;}
 
+
+
 </style>
 
 <br>
-
 
 
 ## A close-to-nature silviculture concept for NZ{.unlisted .unnumbered}
@@ -135,9 +140,11 @@ Currently, we are at Step 1 of the process: gauging interest of potential partic
 <br>
 
 <div class = "blue">
-If the concept interests you (regardless of place of residence), you can register your interest by emailing [Nathan](mailto:nathan@reproducible.co.nz) to be included on a mailing list for monthly updates. Feel free to mention possible ways you may like to be involved.
+If the concept interests you (regardless of place of residence), you can register your interest by emailing [Nathan](mailto:nathan@reproducible.co.nz) to be included on a mailing list for monthly updates. Feel free to mention possible ways you may like to be involved. You can also help us learn about you by taking this [survey](survey.html).
 
 There are no obligations associated with registering interest. 
 </div>
 
- 
+
+
+
