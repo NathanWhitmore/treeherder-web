@@ -51,9 +51,11 @@ div.blue { background-color:#f0fbfc ; border-radius: 6px; padding: 10px;}
 
 <br>
 
-Below are a set of videos which explain some of the ideas behind the Treeherder concept. 
+*Below are a set of videos which explain some of the general ideas behind the Treeherder concept.*
 
-Currently, no single project matches Treeherder or its objective.
+<br>
+<br>
+
 
 ### CCF explained 
 
@@ -61,6 +63,7 @@ Currently, no single project matches Treeherder or its objective.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PPuz8CKH6nw" frameborder="0" allowfullscreen></iframe>
 
 *An introduction by CCFG, a UK group*
+
 <br>
 <br>
 
@@ -70,6 +73,7 @@ Currently, no single project matches Treeherder or its objective.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ASo0ATOG7ME" frameborder="0" allowfullscreen></iframe>
 
 *Covering the concept behind Foreverbeech*
+
 <br>
 <br>
 
@@ -87,6 +91,8 @@ Currently, no single project matches Treeherder or its objective.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O7Jx8anTu4Q" frameborder="0" allowfullscreen></iframe>
 
 *The Hinewai reserve*
+
+<br>
 <br>
 
 ### What is a cooperative?
